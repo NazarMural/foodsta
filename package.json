@@ -1,6 +1,7 @@
 {
   "name": "foodsta",
   "private": true,
+    "homepage": "https://NazarMural.github.io/foodsta/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
