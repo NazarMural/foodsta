@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+
+    font-family: 'Roboto';
+    color: $text-color;
+}
+
+img {
+    display: block;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.current {
+    background-color: $primary-button-bg-color;
+}

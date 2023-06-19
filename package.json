@@ -1,7 +1,7 @@
 {
   "name": "foodsta",
   "private": true,
-    "homepage": "https://NazarMural.github.io/foodsta/",
+  "homepage": "https://NazarMural.github.io/foodsta/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.3.9"
+    "sass": "^1.63.4",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.3.9",
+    "vite-plugin-html": "^3.2.0"
   }
 }
